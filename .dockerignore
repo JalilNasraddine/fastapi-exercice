@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.git
+.gitignore
+app.db
+data/*.csv
