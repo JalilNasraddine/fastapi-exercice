@@ -7,3 +7,5 @@ Thumbs.db
 # Local datasets (ignored)
 data/*
 !data/.gitkeep
+# SQLite DB
+app.db
